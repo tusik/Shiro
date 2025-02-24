@@ -31,6 +31,18 @@ export const PostCopyright: FC = () => {
       className="mt-4 text-sm leading-loose text-gray-600 dark:text-neutral-400"
       id="copyright"
     >
+      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2949782691473536"
+     crossorigin="anonymous"></script>
+      <!-- 博客内页 -->
+      <ins class="adsbygoogle"
+           style="display:block"
+           data-ad-client="ca-pub-2949782691473536"
+           data-ad-slot="8174872056"
+           data-ad-format="auto"
+           data-full-width-responsive="true"></ins>
+      <script>
+           (adsbygoogle = window.adsbygoogle || []).push({});
+      </script>
       <p>文章标题：{title}</p>
       <p>文章作者：{name}</p>
       <p>
